@@ -1,0 +1,18 @@
+body
+{
+    background-color: greenyellow;
+}
+h1, h2
+{
+    text-align: center;
+}
+h1
+{
+    color:brown;
+    text-align: center;
+    font-size: 25px;
+}
+div
+{
+    display:flexbox; text-align: center;
+}

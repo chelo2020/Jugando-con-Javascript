@@ -1,0 +1,25 @@
+body
+{
+    background-color: greenyellow;
+}
+h2
+{
+    text-align: center;
+    color:blue;
+    -webkit-text-stroke: 1px black;
+    text-align: center;
+    font-size: 25px;
+}
+div
+{
+    display:flexbox; text-align: center;
+}
+fieldset
+{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+legend
+{
+    font-size: x-large;
+}
